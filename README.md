@@ -6,8 +6,7 @@ This is my personal portfolio website that showcases my **education, skills, pro
 
 ## 🚀 Live Demo
 🔗 Live Website:
-https:codingvamsi-portfolio.netlify.app
-
+https://codingvamsikrishna.github.io/portfolio_website/
 ---
 
 ## 🎯 Purpose of this Portfolio
