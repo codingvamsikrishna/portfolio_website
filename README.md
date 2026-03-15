@@ -73,7 +73,7 @@ Steps:
 
 To update website:
 1.git add .
-2.git commit -m "Updated portfolio"
+2.git commit -m "Comment Message"
 3.git push
 Netlify updates automatically.
 
